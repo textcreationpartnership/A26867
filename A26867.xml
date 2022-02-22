@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal humbly offered to the Parliament, for suppressing of popery</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26867</idno>
+            <idno type="STC">Wing B119</idno>
+            <idno type="STC">ESTC R12318</idno>
+            <idno type="EEBO-CITATION">11825092</idno>
+            <idno type="OCLC">ocm 11825092</idno>
+            <idno type="VID">49670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal humbly offered to the Parliament, for suppressing of popery</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to J.B. cf. BM.</note>
+                  <note>Publication information taken from colophon.</note>
+                  <note>Signed: J.B.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49670:1"/>
+            <!-- PDF PAGE 27 -->
+            <head>A PROPOSAL Humbly offered to the PARLIAMENT, For ſuppreſſing of POPERY.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>TO you who are not only the principal Patriots of your Country, but the ſole Protectors of our lives and fortunes, under (Almighty God and our moſt Gracious Soveraign now reigning) whom, God of his goodneſs preſerve and protect in health and proſperity, ſpight of all Romiſh Treaſons whatſoever. At your feet (Right Honourable) theſe ſubſequent Propoſals are humbly layed, with that due reverence and humility as is due to ſo great an Aſſembly; and with an integrity every way equivo<g ref="char:EOLhyphen"/>lent to the juſtneſs and equity of the preſent Caſe, now de<g ref="char:EOLhyphen"/>pending betwixt the inhuman Blood-thirſty Romaniſts (for Catholicks I dare not preſume to call them) and the honeſt, loyal, well meaning, and truly faithful Proteſtants in <hi>England.</hi> But by the way, let us requeſt your Honours not to miſconſtrue the method of our proceeding, ſince we do not deſire to render the Papiſts odious; could we our ſelves ſecure our own ſafety, we have that candid conſtruction-for them, which, poſſibly, they never deſerved, nor ever may, I pray God we may be mi<g ref="char:EOLhyphen"/>ſtaken: we deſign no tumults, nor will ſpit out any frothy language, that may encourage any ſo to do, ſince this is our
+<pb n="2" facs="tcp:49670:2"/>
+               <!-- PDF PAGE 28 -->
+principle, to beſeech your Honours for redreſs, which if your Honours do, we ſhall be beyond meaſure thankful; if not, we are confident Almighty God will protect us.</p>
+            <p>We need not inform your Honours of the prodigious growth of Popery, or the diſmal effects thereby occaſioned, former ex<g ref="char:EOLhyphen"/>perience hath ſufficiently convinced us of their helliſh deſigns; and that the ſame things (and woful Tragedies) may be acted again, we have as great reaſon to fear, as your Honours to pre<g ref="char:EOLhyphen"/>vent. In a word, your Honours are humbly deſired to take theſe few following propoſals into conſideration, as you tender the welfare, not only of your King and Country, but conſe<g ref="char:EOLhyphen"/>quently of your ſelves.</p>
+            <p>Setting aſide the Succeſſion to the Crown (a thing not fit for inferior ſubjects to intermeddle withall) which we ſhall leave, Let us humbly requeſt, with your Honours leave and per<g ref="char:EOLhyphen"/>miſſion, theſe few things following. <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Unity; That what God hath not ſet up in his Church may be pulled down, and thoſe things taken out of the way which have been (and poſſibly may be) always bones of con<g ref="char:EOLhyphen"/>tention amongſt perſons truly learned and pious: For certainly, it can neither be prejudicial to the Church, to yield in thoſe things which Diſſenters account ſinful, and which the Church it ſelf calls but indifferent; and therefore no more than chips in Porridg, not worth contending for. This, your Honours know, is the ready way to unite all in affection, and what the conſe<g ref="char:EOLhyphen"/>quence will produce, your Honours are beſt able to conceive, eſpecially when Popery is ſo prevalent, and their faction ſo po<g ref="char:EOLhyphen"/>tent amongſt us, as now it is.</p>
+            <p>Your Honours are not unſenſible of what great concern Unity will be amongſt us, and chiefly that of Religion; in which re<g ref="char:EOLhyphen"/>ſpect (with your Honours approbation) we humbly conceive, with all modeſty be it ſpoken, no more probable courſe can be propounded than the aforegoing Propoſal, which doubtleſs with His Majeſties conſent, may be happily effected to the eternal glory of the Nation.</p>
+            <p>This main (and indeed chief) buſineſs being obtained, we with your Honours permiſſion further requeſt,</p>
+            <p>That in reſpect the bringing in, and introducing of Popery, will in all probability, not only put a period to our fortunes, but our lives to boot (for Fire and Faggot will never be for<g ref="char:EOLhyphen"/>gotten as long as a true Engliſh Proteſtant ſurvives) we there<g ref="char:EOLhyphen"/>fore,
+<pb n="3" facs="tcp:49670:2"/>
+               <!-- PDF PAGE 28 -->
+on our bended Knees, ſupplicate your Honours, That <hi>Smithfield</hi> may never appear in Flames, except on the Fifth day of <hi>November</hi> Annually. Your Honours know it is an old Proverb no leſs uſual than uſeful, <hi>That the burnt Child dreads the Fire;</hi> and it now alone lyes in your boſom to prevent, what we with dread fear, though we hope God Almighty will never ſuffer our Enemies to effect.</p>
+            <p>To induce your Honours to ſo pious a deed, we need urge no further Arguments than the infallible loſing your own E<g ref="char:EOLhyphen"/>ſtates and Fortunes; for the Cannon-Law of the Church of <hi>Rome</hi> abſolutely determines, That not only a private perſon, but a Prince, being a Heretick (as they term all Proteſtants, without exception, to be) incurs by his default,<note n="*">
+                  <hi>Caput Vergentis, de Hereticus,</hi> in a General Council.</note> 
+               <hi>Crimen leſae Majeſtatis divinis,</hi> as their own Au<g ref="char:EOLhyphen"/>thors affirm, whereupon it is no more ſin to kill ſuch a Heretical Prince than a Dog, as well as confiſcate his Eſtate: And if Princes are thus ſerved, what muſt their Sub<g ref="char:EOLhyphen"/>jects expect?</p>
+            <p>Multitudes of the like decrees I could mention unto your Honours, but I ſuppoſe your Honours are not ignorant in this caſe, what your ſelves, as well as we muſt depend on, if ever ſuch blood-thirſty Villains get the upper hand, which God for<g ref="char:EOLhyphen"/>bid. We therefore humbly requeſt your Honours, by the kind<g ref="char:EOLhyphen"/>neſs you have for your ſelves and peculiar Families, as well as the whole Nation, that you would herein gratifie our humble and modeſt requeſt.</p>
+            <p>Your Honours are not ignorant of what an eminent Divine told us of late, <hi>viz. That thoſe perſons who already had the im<g ref="char:EOLhyphen"/>pudence to deny a Popiſh Plot, would never boggle to effect their Treaſon upon the firſt opportunity that offers.</hi> And ſince His Ma<g ref="char:EOLhyphen"/>jeſties life (which we value inſinitely beyond our own private concerns) ſtands on ſo tickliſh a point, as to be in a manner ſubject to the blood-thirſty Sword of every daring Ruſſian, we have the greateſt reaſon in the World to beſeech your Honours to take a timely care to prevent ſo eminent a miſchief, which, for ought we know, will not only ruine us, but ſtrike a great blow towards the utter ſubvertion of all the Proteſtants in <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+            </p>
+            <p>And now let us humbly requeſt your Honours, to conſider, whether any thing can poſſibly be fitter propounded for the pre<g ref="char:EOLhyphen"/>ſent times, at this ſeaſon, than what is here humbly layd at
+<pb n="4" facs="tcp:49670:3"/>
+               <!-- PDF PAGE 29 -->
+your feet, <hi>viz.</hi> The ſtrengthning of the Nation at home by a perfect and entire union amongſt our ſelves, and ſuppreſſing all appearances of Popery, a name which makes all loyal Engliſh Proteſtants tremble. This may it pleaſe your Honours, is hum<g ref="char:EOLhyphen"/>bly offered you for your ſerious peruſal, in behalf of all Loyal Proteſtants; by a</p>
+            <closer>
+               <signed>Loyal Subject to the King, and a faithful Servant to his Coun<g ref="char:EOLhyphen"/>tries intereſt <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed, and are to be Sold by <hi>Richard Janeway</hi> in <hi>Queens head Alley</hi> in <hi>Pater-Noſter-Row.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
